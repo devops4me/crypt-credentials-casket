@@ -1,0 +1,38 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Tue Dec 11 18:39:18 2018 ( 18345.1839.182 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+skpvbS2btn9CsHrqUc5Ky5mqGaGwU1HEzlE1509ZmMCX8s1swVGGO3X+hqGl
+SfyuzKk2BZaWgmB+SwxL6GLUcYypGAw+YGNwS1PcKqMOHoT217cMcB6RkXol
+RRYJm//2FqX9TvtmW5gQ3Bo61d5eeUH+qj9akAA6rC/20gGUtJIo2fRJBdCT
+ZCKTANBmO6KNSXrWp6WixHPaSFl3ifueV98l+W6rBauSt6ZcBFpqZTBKS0ac
+lHElvZS5ckIZ3A59oQIo2wmRM7PMSOQAjHkyQiAGRQ/V3NsLIhjZOHqf5iSH
+ByEw5VstlEXLvhUU4Gxle3Mx4reO5kMWvW/lAvwbO/UAOGKODuwaVOowiHEX
+1IwjfP0GCuSErFC+04yOqCxIAjcbBvWgSi/02wvE8uaOPALTssvh9t9wt0gL
+uqoHPmwtFk/RApXhAjCeQIehf9iooJ9XjZsZJydlG7HS7UhzEHLlUOj5k7NV
+VW5rjpsotykp843GbSjqdVU2KkzONg58j2gsdFalyugMCTMDE14CXxv2XxN+
+t6gDI+n0BPYr/ex0zRw+fSIDK1KEZWHy5MOW9LhsuNEBQL7rIN/rDTWCcKBU
+SeYIWrVisLuE8rHKrdln1IQX7rJsjNTMKD4Kev/GpjxIlIzshZNEYWJABx5Y
+SQCJUMy8TAmMUYutyR/x9yCWHbg/XHtlptcD+dfeXNjFsxpKjnkboDi0Deah
+KgPNmarBQQfwz1VUzqUeHD0YVtCsBCZ/lYlwxHbffi21q+dStlRfFuvUlRd1
+H+ijhSKXHivbrLS7HbBjJgZERBuRVlJXNnO+HKB70DWyoTYwgFohdSH5qE3z
+uAb5kzvqo3sj7YQJOTulHwBv3kwECHA/V9gkDydxDFHIrQlQvqIghJVLjtRh
+oZuO2lAxM1vQ7ofTepRTdvZSyoBnBS2j59OiesE1ieQOeXOCRmb3cQxD2PQc
+fy7JiNCErC5p9Ihp5ECifu/rqZn9KxXwTEgL1INP3KAZ2cik0vzajM+TAg6s
+L9Yo/rWBcNgIfdMM9aqFKEZMELqSOQKEYpPRDd5Rb479it/OP/aixBkmHq+M
+kW5U/AUGEL++vj+SULtPI++KXHEw1YkcjHQX7f/JAsload/hNOlE4kUeqXWm
+usYJcsc6V1XMuIMHJ04iwcCZfoo8NUoQ5bDl/mFb9NRnQ1UPENT7BCLXtFJ7
+ajbNYZlnFGYleVW0ahJg9gC7NZUBAukwRSDB9xOxB0tup62KldTShVxLJBiV
+9zfSB13oP3olAU7wgUv1NTQRSevEyQ//J8VGLwkr10/RWfrYFJOkP/NtmfPp
++G5OTNAVdKvJYIgGpMOYN0u1mvMS6PUovDMiZkNzCTZEFpg/jkUq7V6mEKBt
+BdLBG6wZNWR3WoibsZFMW4FJCV5Dz7aCG+LYjsMO4mF+6KCWZKqmiK6artGF
+moB/Gr3jaYvIReKIy6qP0zU4bVsxWyE0
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

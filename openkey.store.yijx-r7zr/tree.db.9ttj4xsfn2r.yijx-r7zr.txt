@@ -1,0 +1,72 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Sun Feb 10 00:28:01 2019 ( 19041.0028.011 )
+App Version := 0.0.9948
+Website Url := https://github.io/opensecret.io
+Session Ref := uoy9-reeo-vpiz-ke1m-4yi3
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+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
++znmikX1Byd6oRvIafE=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

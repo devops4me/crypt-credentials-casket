@@ -1,0 +1,41 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Dec 13 01:09:36 2018 ( 18347.0109.361 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+pc33XlS9Nh/475xGRlPVed2GhyCuLB+lhCGxlbpEqhTUFdAweCdiKMv+hiTy
+6peJOgFKSYInd6t9M+8d+3z+8Hynyat3bM8aDE6a79t+qa8lWYJV3Ecj1tnW
+NLLt7u45Mzi0oWtFehmzbL8GWFkK8ZPYJseIG2CCShktXIPEXBzRsX51pBxu
+SZXk+zs7vAokdAZ9aYLQLfq6Yd2ZFMeN13A5JZwIxgMCMES8HabD0T340grs
+5z5xnT0usQmR3GfKhihlm6D+99MuMu3AefDLIBrIPej8BKsOkUlOi57/s45K
+v4ewx3bZd+C8f8v94mtksdKAE6uXXpWNTUGEB9DWdzoyJUunmq9JCn6xJtzM
+ONCQxdr9vd72/3gjecqUHhuIPqdhFr8BODzsQg04tb7IMpMMHGzuyxzaxLOb
+OsoRBRc1WLTZFleFPTQNHMy8TV2Q7PCS6pklMqg/0JDnT1HWm3jbVcfarw83
+WAABhh0B9IkBSF5i84mNOEasfq5urx+dDUtXEkVr0DaGZMNiajIcvqguyBv4
+3SxTkPcCQKP2O8BeDO3OrFWTbABVgzXVMTkbrgsb0u/BTdTs16jcDuFfYiX/
+76Fb99h53Fhf3L7+9O0m9c4fqNg+yaRTqPdnDekWhFQMkjm8EaYV6EfSxNPl
+0W1Lx1mj3zEgHNiFhqHysTrc3SPQ5g4iPw1FOfh6R+0S/nPYoERpGNQiEq5V
+GUlYB1WcHpjcCbRpNe2oZRz4iFfScav95FJRgKyVpyS5p40PXz64/8tlFbtz
+oWwTgdW3FXkbeIebmjPoOtcs24rDNwLATahd6AIFcgOaFHVbngdu2fUo3w1X
+nHEdUFhaYa6gpfcwo4dLCXI9ozg4jqCd4LYrCvNgldVZCy46FDKGFudJua5P
++PP+6d1P2MWWU77xgflf8zB5bJ24x8yABSdpjBQEeXHKFrrDlx7ld+Na+zZY
+zPS6oskwteoV1Mqvl4FInLnjwVEjphLeBLJ+uxd2WLlnVmVK55Z7KCi6eRr7
+8zJxoeyLWUL291HnfR0rDpFCx6h3BxzJVnRuOeqxhMFBQ1PLRfUYWb7QFRfo
+et2pgSTXw4PNapHzhY3i48VB+IeX4/GDY4nvzEXHYHN79u0kUINEky1bpZMU
+Livv5Gdfp9u9Umco+h9awXzHAmXvFDrgCJDlm3jKkl2f27Ft4ffSqF1Fz7Pi
+IAA+ea8HiYKDZLl85WdyoNJy4tFVsle/U3nV62/SpIGaS5uQ4KUzLm2WPa1y
+rjlmLTQGHbr6zomZey/wuQDJt4/h06DXP6VouvBx8qartkbKUVYpA1cHV6K4
+/atvCxRdA2tmB8meG7vXMePf4ygQuj4ncj9yqjqqmoAqcIFeM1ZpHO4I4cAH
+QBGQn2ZfUVzDZ/xB609+QAh4AfjNMS40ufzUsyrTnWXWx+KvpeTnTXrezOC+
+Fw/TAG4JMBRUtON9L7hbVOt5BelgzWNsH901iVQBRJFXtlctLxVmvNvL+FSx
+OM9OBhohSSXlMOHI/j1DWwh+tB6dvmQWByoZFvHXzJHQL+obNLSwYc8bDa2Z
+95xiSaef2eEUd2aSHLN6spcxGBU1e0VufzxoS2nYJiy/d8Iqx9HKEUZS5BBp
+oTyr2mu8hZaaJMisNPaOQZM=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

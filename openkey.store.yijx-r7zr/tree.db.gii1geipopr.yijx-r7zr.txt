@@ -1,0 +1,17 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Wed Sep 26 13:50:28 2018 ( 18269.1350.278 )
+App Version := 0.0.9943
+Website Url := https://github.io/opensecret.io
+Session Ref := 8pzt-yixl-mjov-g5fd-f1fo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+WQPWnm15DX2QA0zG7IEc51g/Jp/zuqOOvF1vd6FGza9E6bM6d7x/KNmuBcuE
+BRWJN3S86g8hIUunIGDIKF6VkibZP+glzGc0TPRsUhSzi8Q0gbTBxOXYoOHa
+fr9PQPucP0eQOBXyMQDjLLMpsjO9cJZ6HtWagJcs+hyincywTpMe8yM/X/Ah
+NXMaKkGe6HNB
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,22 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Wed Aug 8 12:55:56 2018 ( 18220.1255.523 )
+App Version := 0.0.9927
+Website Url := https://github.io/opensecret.io
+Session Ref := yxfp-k3lk-lelm-ourj-oark
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+9rdY+GrYEXN5cgxO306tuzmRELQaXXMf2XGSruJysacZJVGHl2MtBPVDLbhZ
+d21Zl6gPxfA+Dnnd2aWqFTCSs8vSBTf/aWLtWWRNoh1/TxrmIM1pqylbPpBA
+Sz8E9pFZdrycu2wbPoCI9UMwXqUZ3bqcQcMcMOE8Lyr3OWjIYdHWB6UaJ1+O
+1qFjgdx6Y7D8DgKcPOHRteYmmsb1BCHB/aRK1ImB9Sb/TiWN/gce7aNMPg2T
+5dewg5Pz2fO5eS34YM6vo2eyhKK2Orq3ZhY3IB85zkrIbrSi9jCUuE0nX6Yf
+H4cU//6lE5Ac5aWeFJOLi+yQUWgQjjijA3kdOJ5BnJfNKGcsIlUgaPUwuNOy
+yb5H9tB1APzlvQ69eeSVLOmBXS+YBH5P+Nx1NywHkO+nWAvE4KUvewqjcz78
+9hZOtWPb/Qy0Qrp6sLZGx4dyVGGj5aQ+EvCHZRbOgrbU8XYEvcgRL6Ha4IDw
+ccH9OEb2xrp1A1ph3rOHfiisDSoX8vWaLD3+yKffo5n5lRu6XLe4Zw==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

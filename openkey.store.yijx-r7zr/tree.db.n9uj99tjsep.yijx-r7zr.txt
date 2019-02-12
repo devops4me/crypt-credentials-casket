@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Mon Sep 3 16:01:51 2018 ( 18246.1601.509 )
+App Version := 0.0.9927
+Website Url := https://github.io/opensecret.io
+Session Ref := uwfl-nmpe-o7qt-2jq8-raza
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+uvt7L4RfbF3CLzABaEKg754OJW+AvodmQBomxy9556/yIhRKZt5OfU4yLn6p
+ElZF6FIFHugGQ/qotSmEqxZeyLyKRyTdmEtiGM1djF6UNrlmT5P8jYl9acj3
+CMQKjxJmk4/IF02JuGnEC7q4VsB92ibOkFo2pWRTvcF25uVLYQCSdXVjI75p
+aRGc2NbRXO+KGqYksB9BHZwoKlR/mF4L6XRrvUfNV3kticC9/+JHQvswDuXL
+WcejTxA0JUamWsdzg0R3Yrdu4wo+erO6LJ0APUE5hsz4G2mvYdkzwehWE4Ox
+zUEWL5hkr4p7/VydiuWbVU87bEL7P3GF0QzkqtOfpwhonzCU6YGBep8UgSt9
+EDY+PBv30Yk7NTe4gKKhg81vPpxFGdq5Z/o3Sym6/jrkReSZ+MXQsiTcGJJj
+TH7ta+ee4IdAdZ6JD+SnzrbXtbKl3D4teeptaY5vfS321ybrVSD6grjxBXAy
+Zi3fprXeUWRzhfXENJjmYaEGHKDJt58aoa5lgcvndaNun7mJniEr2uMWGGos
+pxxCzzW9ju2jUm+EObRTd4qeONa0yEQY6pTFVZdtGv6p17DmROF1832juM7c
+zD2ZhTGWguFaBj5H+Ko7grTl0y9y23GX6DRRyrFKoNKu+UidEohRwhj/2ICR
+Qma12qAc2Y7WlZtp1LpMr0wvD0lMzAdWr5LQUDTQ0KCKXZXAvUH6Jb+MSb01
+12cQ8QohcSe1JCEjI57Cl7dNfWLVrg6xgTWjJNrx66s/DmtiQFIvaIgUCoRh
+TU8iiy2up2riWJjIpjPHJcuxeliMM7r7oZiyS+5sdxmc4M3c5wIQ4kd0hE0M
+F9x0pGjlO8JlH3fE3ZyZi0bYgY8PZySfirG/BG0ckCaaGgq86ZxkyzIKJrVb
+JwhTV22v02Loz/m1Veg4zNtqo5MKslaE20striZ0f3PXzNB7lBpl6rDENLSg
+3kZcFTSbGppF7rRLwp0oAjVuxakNJJAATHt1TOh01agn/cPKj9JtPUstrN41
+jTbL7OX4nhIY2TAZ7QPbZrp+0gbw2KA6XjCVCy8/GGSCE+iUAxXL6SzhGLgd
+VGrwMWIrvWqBIP/ov2DhzDPZWj7RDF6uL9uX0xvyVRkUDFQ6rSBF1xNY4jll
+e/9MyKHDWxrZbJbaOO/BYb+T0HA84RV2I1QfOFRn5y3suGI8B9jMY/jB6Y/z
+USRS9ceHITs0gmYSevxsb/6pISC2bMrz5v1DfG//TZffPy9PyKyTCmu3WiYF
+dzoFEjHPMOhp6CvAaZt/dHy0FIEaW9kruHFtAYBbOf21rgfazoXJt46nUHDD
+XkA=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

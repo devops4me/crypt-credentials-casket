@@ -1,0 +1,37 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Tue Dec 11 18:35:47 2018 ( 18345.1835.466 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+tVIj7H7aFZ61yFbymyUPnXxjAestysmTxmBc6+yQuAGDWscshrA6h0PzqYLe
+X2ydB4LFz58oZXxnsrruGL0clVl2Sy0NbCZKPjHSUGp5SRa6AA10fGKk+NOj
+5IDxl/wjivuSPJEkym/ogvHUsjCXPH8pJGQeVAIl/O3zpBbFtIUlJ44Vqeeq
+Tfz6v7D/zq/y9BisK6ZwqpZtrT8wRbk5eaDtH/Ze5tluZ6awQhI2gkvvqNNI
+M3KSp6tzqRG4UxLDJfs2L1cpNV71X/wGeJfsFfjZo4qQLXSrxSnuoBsOyI1Z
++yw4hC9AVtpBa5kaZYTxtwLi6foA7X2489QUy0MrAjt7jXxyfJozoGUs+l8g
+0D9abkoNch5WptTTM50rNbyCHgDxfBQaf3gkBI19nPnJya6z2QRctYah3mzC
+hDnBgVsoIFFuOEH7ItBHZIFJCScyyjdtn4Rk8UCncigo5RrrhLeaVQwgrIrR
+G8QmEgF12KyRQVIzUvdwit8m6XqpjAbAQv8Stl5yfnkvKieGudHvzoDTaQLK
+5zS+Y1KjKrX6J+I45epNsDQKnPKI7PaGW4e3mRKei46QG/thO30IZMhQZmZJ
+PijcdnGYWYDqltUoFjDbynbGOurvp6kqPPJ7AGmhvRB+ZidVfaKr2tEtBdIQ
+sBd48tcW1CS+J25kcYlCMZ4VinmBu+GzDhG0XbyY/bxxlss743OKkvP/RTr+
+w0MO1PNWz7b8dmMYC0E8WUuIXWRjwp8/DxWXMApGga7s/JGkUnM8xElQAn9+
+dM8Ja+61a1N8SsJRpCN02THS6PDJ9c+io1cbiW1b37SJcR40VHlJQmljPtSd
+JroQ7c5uqsJ0Ro4sKRPSLSWZgVkPX51cWBCmWIcSjheP87papLono4Jq8ZUE
+x9k83uQyHnXBRh3PBTOzV9bIAOWs46l6mSsn4vn8MSP4+G5EG4NwENeGpNZr
+MPzDJ9XyvoQkNPppCe+KVa1ADMojkWEw2T0wH6Vkh6cKqtxFed69p2p/H5Pf
+9DGJEeUkGdCLoRhe4oINz0dAo78ClMAUSS2vxO54RLDBZm3AWFgxtlTlWKPF
+9o0T8O7LjYCQu+dv314va7b+xm7m5MynfHAG5UoonQJN8g9CnnEymqWesr8K
+BevcvCBPWM3GnzU2O8a0s0l78vwjJpaJHzqY220HRI8CCNvJNPnvI08XOfwu
+f6X3f02ouJDKSw4yFcY0fX4InK8mqUalzhXC9truvJJ8qKTUoXoSb8aGLYW4
+rbkFha5I9dpJJGRjfJ7ZlDLDRoxsnQOb3vASLZrGwl1gUSMgb6giptVGvr3x
+S3FiZYZ4Mg1WCS6ztQzR13K3uSpZxUJkglO4lh0SSCaWagwDKl1/Tv1NMfL8
+7FcNfiHnjj4oGz4ezQDlKA484l9Q
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

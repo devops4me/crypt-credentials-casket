@@ -1,0 +1,38 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Tue Dec 11 18:38:58 2018 ( 18345.1838.581 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+P/+U44TSLB3fCMAaYaxMYScf+PQ85a8Yy5XarrAc4bqUfKd+r8vkXtAbOVy9
+n6+TkGb4htBYlZ7VKxzKKh6fWUjJ8chu/W5J8lpku1psIExPdQxneL5ZCadp
+aFTMzmx52vVxlex7ZY+7PM10r3KDzbgkyAYK3brnIutKW5J1UXiyd32G2O0I
+30WgEcUxJDZ+qgE/OkVmkiD4Sz/GvRaxP66MX2lQ4oX4Rv6zR+cgQrD/A952
+gEA2I1xS3OXPK9KpjZQvL31TdCw/SWwVEnSL5cqgyYqOsuzZiXwol+Z/pGgT
+H2pd6FPmIuUcRoce5pDBcU9qCpPKRmkNwF3IEP8u7Uwe7BFZXWtNSknqpw5L
+GRNctAhtScLeU2mrJn3k222/V1ttlcB/yfK5PQts9Ly4gjvqbJ52HSf73FgV
+Kh58X6UIwQcomR277R4LUfKgOZUK0FnwP1bSc86xDyM6l1HZz7xcRZ84asaX
+9skHLr/ZxbkQ2YvVEKbddFEkHRKwskR1pFkdQ7Qjyjfscey9mjbfoRfvFlVb
+BALcW++A1Y8NYDw1ZpGvL+nYUoWnBG45tE9ncttf3z0l9FzkqvnXTHB8GTIb
+tlufU1zi7+4bwHGQ6m3ZMKWYQS1ytRNNL7+bJdgbInYKjv19QlCcl4yjYWqo
+agDG/JF93N6D5EcjU20SuGZu3BbJ1WA1cgQbH/ALreuKpD543yzTNZE82Xw2
+AyGifvo9WZLDMPpEm1luRaAnSiPm9XbH2T6lWTPi/1NzSaN0RIqU12DJdZsc
+thVbbAuNCjad9691CNgKqeM2QXrYP8lKi2Jg1SMsufMrD8+qBfTkzB8B/aui
+/ZAVbPDse8R3vtG5OKHILecQo6j6g8a/p+3GRxf9cnK3UMAKtod1HKui+0Id
+y2KPDA7+bNnUzJCmaGgr1oHDW1BHm1wSrckUXuuOVVKOjtvUsA8PpHwQDBWQ
+er7Md7kBHFofDk1zeAOv3XtWFQx1I3TAEgQieDTekwAltCGKrKfmDCB/iq27
+323jjpDC42DnsyFVuiwGudXhZ0O3b5FPEiUvku/36WfQbeHSbFMvTLNJof20
+yEiWvpDbrfgCtOMsSLKD7U09P4/QRSVzRfOuWUDoZwhbS+K7Y2ivz2eaL1dW
+MxIDy6KwOv9PxhSUNN/uMbNSJxpWFrW+ShcU9WP1Uwd4unTHfXXctEmiA3Ym
+66NPMyo+6OZOEHkNUlcxHG/TFbHIDrngKp40McuoGEwrjiX1+ZLuVTeDVSEu
+3EGhjMSUpxQ64cUeBSXpHUfDFsmHhE9lNJMZ9LR2GK625JqFPVerQDK7I8Kg
+MDHOP4QxOS0N3XHX/bUSAyKMH8XtFO9dDC0XHxnTiKkK4brqQT68x64nYSlR
+C4YxIRBhNLHJ6ekw7B3jwiWPmgoljx23X5yHxKi87Eb14EskpfL1pHw+wwki
+1/A056Zc9QM=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

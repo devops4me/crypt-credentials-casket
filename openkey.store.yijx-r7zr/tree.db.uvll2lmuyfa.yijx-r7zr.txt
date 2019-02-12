@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Jan 10 22:15:18 2019 ( 19010.2215.174 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := qmmh-sydo-nrm1-hqwd-f1in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+6PubuTbOHYl6zJKGF2Nx5fMTgjgcPDcSmt/hEsSwqJp2VPIg81ew+YD/DCLL
+5fx3gRcSrFgjPKiuTbbJYSO6Y/fpJo7U9JyoKJgLjVOqN1yoXxuLwdPtdYDc
+61R0kkwWVVme4TnwqxcW97G1vYvkGQWlrEsPaefYMMCU2fnvLmWodMoLdQbH
+MsI9RCFUDuS8HiyhMBR6hf7yQADlzoyu16mugxhPq7X2x5noTrvY1xMUfRRz
+FwI6ZxBDG/WwH5/GqNB/fhetRp2mNoG7dRMiENAjxLDCDPDVKjULuszoi6UH
+rwz4y/netCeXee9y/Bw/lkmYNeriGQXb5IcpNYmyGDWt6FIQFwNCBReOvipK
+x56y3/tj7Q7FFLWBFe9Vm0CBZw4muCSDvK51OeV8Y6O8/x+Rt3fF7n2JKRBM
+TMckPQPsXqfJTRpSK8sN7giZV/UzeuZCNt5yjJr01dL7g1glQjhVcPX/z5xt
+8OEjHv2xmr1NL5U+PjcMWRDvKb26eRftLOtvxjGzwaziUX+yDyhdc+lN/r2i
+WrjvTD3x2iLveEk9Jkx3Unp/Q5F6NoQcxibrba5G5RJpZG41bEZ6EzABp1n2
+mbhpxFCkZ39q12YuTFX/WIQafhVygPzgBsT9MftmGXrMIp60EI2cfqFHMxpo
+9ohO202to6dAuAuxqkpJ9mU4AuNdEUwlja+084FzIPBaentWNUY+ncf4G39W
+yymM+GRu8JzAaWvpKv0oK7jTS+/woqrHIA3lj7MZiK0cCZQ2JqzC8C8+mZcU
+vjB6t9WOIO0e8jRKXBGs+T8LAcPqNcyL7qSgt46ZOiVAc/0061CWV6GimWxN
+Yl1rw6kUWwBdQWb4vJEoiSiMXLs1YaMpsGp/dmdPXWErYxfO5Sk0TmFFLXym
+nxPzbChzriWelErre+bl5MjRsL3sy+k1jekkrMisLH0Tb/IJDTmiKkrWATxA
+W+7P/u4xJeqaToV2E8devWFoqPZ9eFV4jfOXloYdysnjRWHETM47LG4eBafm
+j6VZtQM2SNbXFnmhMotFYqwA7rPznEVj9INQhj4pbvEhOn82hW15KHB9a7mF
+ZJSfuG2OjPieKGwjmF3TYbW+PIN4ND48uRguQZiVy+fkr36vv7yblFVCmZnY
+P23CYP+QlpeKR4WWPl3/TmA8iv7054hO1X5u6lPpxIvRiTI5ukS9J5HreoY8
+IycTgGGcK5LywC055o/4pBiBTZtfMSmgOZzBcnQyFPEl8Nyl4NTs9jqXd5Fz
+bc1hD6cMBF9G5UvQljdiJdYizYWKrtjtdII49uHbm6/tMvbA90OpK64oaeSp
+Fs0d2F/ce/qajP+3KbchutjK
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

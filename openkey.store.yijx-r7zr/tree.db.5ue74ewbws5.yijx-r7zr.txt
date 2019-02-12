@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Tue Dec 11 18:27:15 2018 ( 18345.1827.146 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+s7Yu6iPZmbzraQO1XnWNR1wRv0ClDPibo2jZhbefOw+xo6CcbPTPOpUqYC+E
+IlAAPKd8v7P3oHooEZUwyzQpglw/MS5kTT+VtZ//e+BdCIpRS8Z2o9ZS8J84
+su7H4m0cmmEB/Qetq2Vf/lcmL1RxnQpGx9r/iairvmlYOA15BvKuexybIKUb
+dLJelVkyUIzaJYG2hzN5dkhIQ73cE9sG62PZSMJ4VeFxMi6NU1LA3PtrA73+
+ip+I9nli/MEUsiPvjoAda1zmLA1ZbFNt5QSL0vExgTGls5F4veau14hvkn8f
+teFgXqlOjETPV0cxauxatFZ2u2wjD9PQGadQu2FZ9gZ5C7UY43HicuhCOZwH
+k8oyG8Jh6T1eknfdtcIffKH2mULiQgdwJZKRMSUqD8i93tONDfFvYa7YEz2s
+8NYntDQzSUvRaVUhgrapB9KYGZCv/SNtPUKEXG46htSqFTabvb8X4olvyBVG
+QxvSmIfwjVfpKSDSjeT3Lj4Z1uETNlkWW11M83YU93lUFUfRFM+gOZB24saP
+s5niEFwhYmaEB3XoDymsq8pmgafNShe0MoQj/6qVsb+6bKXIz2e12eWSobSm
+4HFejujhPq5k7MrlwHe3nu8fpnhmziB3sVkxa+kgO8Q4+/zZR9MQfVpEOYLo
+S8MhwDWGornoe5VlnkgYjddL1VO2UGxXGfFuQUU/dZccxYxm0Np7aSVMr4na
+6DB0Zhhgyag6LQAdLykbW8omvP0anypcQYMk3QHgVzisi+U+ICK8HmMPcuHU
+s91K1CrVly5vK5OLN7lhHu98tJrOB+H3/CZeTppw1cBapy7EOX+QHCZeg/79
+9BEfspZ+61l5p+wwVlfavXnI65CWno0frkIp4EU7G398GWcw9FUAhbwDJHWA
+xm2QXo3e20QmTyBXIEpI22iX3iMr7j8clfnsA8b9udzg7NVVgt5ICc1akwdV
+R0SlpgepuFeF6ROAsZnVZWlJUY2nuQrAr/mwFQY1pO72edANehVJYFQYQ8kk
+Ws4G5dOJIeQg0t22Lhg6zR/UxKO8xteJ+nol3VlKg4YoTuB+j9knJRSP9Roc
+4YcHLduEWJD57yaqobhnv0S08r0IIgBhkBHJIPFKSlh1OyLbCXnSe86hDSGz
+3Cxet3RoGpfgTOP9CyZ4PjCs74vv0QJ4VYrbqjnwbblk1a8eefRISFZcF1oX
+zfx4pOkMxJGXI1zx9OpqXMeX161tv8K4RTo5AeOdgCW4uPw33eRdBuVDd3So
+cQZBj0x7H8Ft4s05LValwdCfc9G3eZS7eakjdjrgOExWUlLcDlXv+PFyC6Fw
+eVk=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

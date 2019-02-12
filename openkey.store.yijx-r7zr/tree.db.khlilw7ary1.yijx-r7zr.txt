@@ -1,0 +1,39 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Dec 13 00:58:07 2018 ( 18347.0058.071 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := oe42-oocs-wons-gvri-e4cf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+eBT1uhWTxRN7jAJ9xAHtV9hQgBmKqqoeuBsIQInRbfXqaQsSjbDXHT5lJdho
+7cBCpWBJnGHF2uTmPcwVGDLIJpFFsN0cgyrHCagIr9jS23jIrlQdPoL43UD5
+xWAlIJwHyqmrJOtY3G2M+N8nLFpA71Q9hxEK6pHaWilyX1IEmankvRjLm4/z
+hjnyha1ECIPhU/kBHTbNgEmgNXQum1IRfFIQOeoLwWoVZptL3/xFMgK0m6VK
+/BrWXQenLI3qYF3w7gIhNLWxRn3y/voOswqAzW97yvnRiygfxplDvrTGY5O9
+k3M6G028GnLBGA8xWcy5R/VY5MK1ulIdHh1UvtcQk3HaHhmFFyQDP4OC87s9
+U8P2Ryu7noQcgzqxAv12E0loFft5d7RGXLxU7LF/6wNPgO/R2L5sMKcIwnW2
+re2leTpBpDw/sqYBTCdcD06AoaN4UAV0w5kRxgR84G8434ZJUMhC3cZjaoMU
+1Kq1u3LEj9tvDBWsPpA+UsdGJw8OhEet0mfU7IoL5Onli5dZ60qUAzIm5Kp4
+ESnghWk9ARFsOEf+M42Y0lF5omep4hBg1PjiFrklQag3q3xihk9yJsaLyPuq
+OY3jANvgpdgMfYhodpE0AdF17sTLzhsa5KesLCmy46AQzderjIGs84QOVEAi
+Zisf2B1qnaFL/ye81G6op7r/cjH6Z54H486EWCFSOyuBZq1xEgB6UMI+CJ0Q
+k/edzv4vZ39OUcUyxxNQuLrYakkNieXRFiYVzszhtUYG7Y4sH/TsmqFX85yi
+469PRDeKxWXW+S01RoN4zX8VDaQ4//Jzc0AFKYecMXJ2u1I6907e8FwHNoGw
+mhvV4nHYWblPW+EoqQjCvDySCDt5YG3cca0hdIWu73Jod3Iwy+FNSt0hMT8h
+X14Mit4QSCuohFGfXsJYDBZdVxwu4ogec8Vve/b89c46up+zuYRjNRbO53im
+kPAF5hv9DjKoNXXDNAXkrLXSJHHMfivAQZA/OCyx9MlmDFhOhFqOsOIDxDsO
+9u+z6+TqZMiApR0aop2Lbxl5AkCqQymPezY52kNcLm7MpoELxYTPsznSr6Nv
+wYOgqgxLwC86XZ0jhG54b3hL3mdOep3rRS3Hf1IQ9TGKsFsLH+0gk7p//6Zq
+IticiTeaXNKfv1CShppgJnpf92FkxGQYRvHMhzF0qIfXqcQPbLqSnDQnF9jx
+0UfkxYUoRWXvGoTZ/RD+2D6jxVBhLGYOWDbyu16JriW8R5lZRmiJbREWwEG/
+fsd8bKmkoYQh0xulOTij87gQinvuFP0pPaIOS4g1UWOtsozFEuzm/hFRoKme
+clhFxPdgm2H5ZDccHCv4slgP4zU1QP+p1gR/Rs9027cK38Cjrd9HSbcNZiyR
+fe+frkjpNHrkVwqYgNoZeNd5busJ8xa+0yQSA121pW4dwukree5OSPGui72/
+933pVOSx/zpoarQ2q04Co+M2rylXs1/cGL45YJFXJiE0fcuCDB40dgLEa8Sv
+45Lb5TiXZ+m2iRc=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

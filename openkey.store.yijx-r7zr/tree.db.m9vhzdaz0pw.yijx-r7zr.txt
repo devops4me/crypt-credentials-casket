@@ -1,0 +1,39 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Jan 10 23:29:12 2019 ( 19010.2329.122 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := qmmh-sydo-nrm1-hqwd-f1in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+JGtCRz6Hy0NxvVhBUy1y3uQ93MzsZ3Y2lyRu/oOKHNYkjAGDJJJDkeMn+w5k
+t2PdYeF6vLNgHlLnLx63picDvfW9SPs7Wa3z5gPn+vM1Yhx0jWGIUPr6RxPf
+i03IqWeMLLfvtq8iOJrkkbuvIjzV2naQCJBX8LY0oopZab9vUSzGm367QY84
+the6qgggNRzVTN8n2sO4zBntzwOU+nu57MfkpammMnnso3S7BtpoX/jHIyGw
+SoljnI0qMlQPjufDSk66HSJwdOf+ccEmahIgOpf8OTHch/AXQccEfn+yFuRm
+XUc22ULXh08pEgaVRmP0HnXO3mqv4CKsjp7h5xuUrnVyVXiiVuiQuBYxyw9k
+BxAI7RrBjKVlkt3KJ+3STFJrfE4Y4hgoTURvK5tToNXeMQ7x5s2R2HpLnTup
+5iFv/GY2EuWzJJeMKVODWMTNiNquTvLw8vJVOMyYkhfALlMUzC9Phcun4xxd
+MzV1hqqGlki6FzkBgYu5+gFEWerfQJ973LyTRE/aCZ0mPpoTrxadzF6Mcwaj
+jcR99Mi0RbTQQwY2REPxY5+J6EneOx4bLjqikd4FCdBizO6EpebLSksbrUuu
+/6PGCRrQMiFVsnz+K4sQo1cyoqXUO9C8+b8Mn5uGQcMS1s6we1+ddr+e7eh5
+PcfJ3aUpHk2bL75uKN7pXgPeQWqiCS27+swlzP+QHKNrLpKR9TD3JjiASm8G
+aSRIj5ZlT40H5Cs6mduNVeSfmFlZFPwiqJHyuMK7qW1f14FqvFvsUVRuFhtY
+qTFrPUq8jGcK6rOdjVtdzSWu9I4R9XSxJ5dwcVhv6DwQYgmtE4AUso5i8xnG
+5Xavf2QxamJHrRR5wYcdqLjCJpNn/OytYS+EVPAzEpNWBNd1hFNsoPq09tmr
+wDPJKrduw7JgFp53oGUGZAYEX8SWGAdUcB9rIZuVVxNxu80jMV+SohKQSSQz
+2Sm6iLLhKAmKuzPDRPLhBNjxgmO6t64sDg1hvUoeXzpCasjHRcLggUH6h11j
+u+DyBvrSfE5355k62yLc1KR2FiJp4Sk2rA9NnYx1HAUzSr06mqetO150qFNd
+PdhNvoENm53YAvLcxDWQakM+Gk3PrrcqfevPDB0IamjX26Ps5F4vMy/r8epG
+AyBp6u8g/o/zjqj3qJcorir59Icc+s+FBCWkGCD8yVBm5VXV015IDFbl7RX2
+o08iuhMy1F89LySFwxbl1JLb4Lvq0G0DJCCAfhHaWjBwEe1o+LvyIEqtu6EL
+Xa2wn41Qmca3oSgsXLyv8xIuKWbfanzL5VK1+bQ8Re0QQYu6d6jQY1J660ls
+Efcjr9+80thCxSDAPcFGvVmtheiHh5722J0ONATPhxVQUQDSbLpcIvZHvzXt
+3d89Cvt15o7FyzxW6MwJAiDB5R7ZSTAZNNp6SU0AR2cZUK1bCYj9XdcC1F2u
+QFthUbFuF6fhWAIpnDCQ5kiwYktF+fdIB3KzxiNWUAYSUcGm+Onj0ZvlbUx7
+RO9cHk55phGkPaUk0w1PTffdu+hIXaNG2ZQQ
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

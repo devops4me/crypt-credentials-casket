@@ -1,0 +1,39 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Jan 10 23:28:46 2019 ( 19010.2328.459 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := qmmh-sydo-nrm1-hqwd-f1in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+IIw5+77ZB9+hBFeQUMe3OVz3elFDCpuxm9cs+dSgeAhkkkEhqXQmtKJUD7ap
+438VwC1tMdXlqPin3sKLbw+GweNCycn21YZeTE2V8UYQH/FwycUMY3eAcOtL
+o8u9/z2MwlVxWA/n8+OTQO8+NPgfN44KhoC1bXAbrzzD9Jxo5vxzVSfpWqQJ
+kt71UEg/Om34Nk+sRAwIW1uupOuwk9NQNPK+YpVroqo6z2kUCpldAz0gdSOH
+6U/FNKn6iWU7d1tb47LRpSR/hs6Bp7llfnePj2wlTKJBgzMZaSSh/mVWs0uy
+sHf2f/18I3u3V0WWG2k802dLg582KfYwm0LBQ57ZNfxUOGAoa6P/1T85X4h8
+4PIwpXs7xrP7fOUIMFqxKYvqDQ9hG16AUVujpJAvS1jmehgQUM47s7+6fkfp
+HwTDdc9waV+gao+409fsy4CGXGe/+poWLAn7Q22johnkGCd3XKD5gGVGnx6i
+Ei3r6DpOCjPL8GJD4qVUbkX5oV8w1WZEapz/kN2yhXZZXoHMOz39OQXoP65U
+Q9HmRotoXTBVmVHjMkHRrRLQ9pc7gE3bGRMhcLrdhgtmItUK2KUDJs23RMoP
+Vfc38rWh3jB9jjA1FGeAH0xsszxL6SKq9rx2/F/WXM9cqIPgCcDOzJ6NHp65
+SJ894bveJ3VeoB0J+H8lOA/PHhFLx92fkLqeBoijCBUg90PMoML9/ovfs20a
+4eMkRQcaoAkmvrLuYGjjEPuc9H/G9vRFjVHRrqvGTr2Wuf8K+wLygzKEFDwT
+uyAYO+Wy85bLGUVQjMoxnAz94lpphJEIRrtDCkFBzFNPjDKz2EB/1RzaENWb
+qN0HBy8fxnQSRVIwULwu7B3Em+FaElQELhTalWW6KxWxweE+kdFFYeTeljRs
+TOHVjJ/eBPbZntaBeTObnNONrpFzUoK+8tUgbOS9FUyBdwbiTqAH6oydk/Li
+VYB+xfXONI4HuY6HDPjAeV9gMnH+32rCcEl2HG6rNu4hdGXZf6WfZ66EgaO9
+mpkLZrZ5YAj3krCLA5vIYwSOijOkqu+FMqIRAB5h5e1+fOX0aLlklSCxAc8i
+UNTn31CBapxyDdDd9KCJNlwx3Wo+AICFd2ULQpNE7VkVghJ6aBmxLUI0IgJI
+nAJi6iohOHocFN4Jx+sj9rG2hKFqjicnrHsazLRlNtDtAGaKE7rohpfGczBz
+TyfRQMdnv6KIi9MbcZeFMxz4S/iMd00iRJxYaLSaI+YJQGNTuiQVr1LG0/Tm
+O4D0D8MyC6VbszpG4b7jHXyzHsnrJP4Clb4o7LFRQynRGIZE++2srXnAnZ/U
+QoNaS5pyIJDYCc1mF3O8irjVAGxd/WCxCTOURuwjmXOkPP4aP+RJqTXLVQb9
+98rB77XJgjQA3UWE2kfLx3u5u1KtOIB7G6INzNvuyuPCmu2c1W8UpvdjtDIa
+eBXpdybm0ETvM+DZpfz/8fBbO/9SDFl7RO28d1f57IPcTdICThziPVuXyNc8
+B6KnTVyL15JOGNI=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

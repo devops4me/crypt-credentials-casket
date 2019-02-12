@@ -1,0 +1,37 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Thu Jan 10 23:28:09 2019 ( 19010.2328.085 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := qmmh-sydo-nrm1-hqwd-f1in
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+mwq/SMHhDBn89ZuVmVBq3NjAB+b24HHCR7ZV/2/ejkIvxzovrK0mJ8LjLYhz
+aUgQy03jeWkJEZmV2lVldqzH/YckZBXnymGykKn5+ddk+1IEEoaNuOWT+CNo
+vVHXqCVCWv1vPrLJcPnL5dNg5d+oTNyIHc0UGfEea4QWP7pljy2HHvNYxOFN
+jELdr08HWDde2AzK8xocXmoNB9Yv4VIYwwmkIgtOAGuDJOfUG8PaK/GAKkUF
+t9/+mYifhczz1ZUm65Kvd2oeBA65fFOooDeImSYMxKMAa88/C4eplfnSH2Ee
+IpHREwPhRBL8amvDc4qbdeN5lDNunCt/aleh2J5I2LujJlL53sVNMcP4tToy
+5wg2KZRl9LaHopS2yZTud3ab6Ti5asHuv8bxJx/cV1lzA6vkz79r1HWEXolu
+IGrCPZuelqRXP8YgXqaFA4t7jQeecNdzxnprIEJUmgpzsuj/Qf8XyoZQVV6l
+pn91WeQsuDxIfs878m0tSvamk6HCo1/cdGhQsnNZ0Y879bpQGQEF6AUwRq2T
+fvRjy2bMZUvCs7jQNOaKK9V7uPcGz/AGLV4KgRVqxLEJu+gXOTNAVy1K1TGw
+d5Jci/T2wjhTWnOEVXS58etUVLqtb+56ADqstwvmy7vhTERXaVDHK22rFSEq
+GPtLzE9/9HsXgT11hbQdNO0FsJ12jjm1CI4SU6zZ8G3DzJeBPcV8dMj86u3/
+VCTq9OnhASPqZhQOOipemSnWNo2W3iex76jSahZt4XMHc2XAnUGzj90sZHKR
+xZWZifYpkpZ0ZO5vbvBMWzW0i5Hv07TtXP6K/ltu3UMBFSa2AcPtk8Bb1QNd
+OcSfLBUmqZPyGHOPyIq/el4OqzHFrdIl0rioj89sEXfQn9qXoX79NnY/YOoz
+sXtG96irc8xOI3pxr30SOhWHpe7rkq8qCyDmEjJNdWhYP9l/aDKG3AsdJA+2
+i5pTEyjQtnX6nL2LjaizDKB57debzwqPzNxDxM7uLl9aTkgnaNMDW54M1KRP
+Pe3Gawhwo/9UAEq2cGAW/UfO1QK4/ali4rgLBUkjJUzLMX8WCwPX8VhPApXi
+47y/hz+O/JAH7DYi30j0T7tUrFmP/hA2cLoXjUp33cE+MfAA5/voDxT+p9aY
+glcREj9/wqVGJn5rZVDJIo4ArFpUBGuUnuBpACHc+owpryR99lQumU3Qlsj4
+qNduYvLLBcEebxCSKFmABl+HQDhlz7YIHah8+s4XjA2iCGAq50RJBu8Z9LTx
+/DAVcr1n5pR5p+4Ia2Sw0sr4HYOLiXRIwUl52VMmrCPdgN3+F2xrmjQ1BT+X
+k62Vm7esoFpIXdnUJNcwFOSyrGJL0APzCtpZJzDcD2ZWQVj4px7TLhfX8w55
+hB8qHt9VL6tX1AxrBQuUBFZSBMFlXDPY/V7Ak5dMRff93ahysQ==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

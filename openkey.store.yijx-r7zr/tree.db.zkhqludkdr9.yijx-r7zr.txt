@@ -1,0 +1,47 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+opensecret ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Wed Jan 23 17:19:05 2019 ( 19023.1719.048 )
+App Version := 0.0.9947
+Website Url := https://github.io/opensecret.io
+Session Ref := epo1-whzp-badu-yakr-e7px
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+Hz7usCKUnuodlfAp7t2UaxxGm7Z9CX7bWXHG9qejQRm4fwr8JTTdUifcOSw+
+yCP3S5XLONnwvJfybmOImDvq5QNLddHDDcUexSLCcFT0y6Gvx2ESnrUkH7Mz
+p/pGy2EYicQZ8H6Jb+waVV3pSA5K2UQkUkOYZlnrLYLeRvQf+Mknw12h8qwh
+Km3VWz9IB38PRCyRwf3ciGusXuXYzdFBneYXtIatbvSzuPe3QZn/jHT62XAw
+Trg4pN74FDmK8RaQlVH/GNjn1K0H8UlYpqfP0W/hem2+BK7F8ylpIiepEi/3
+NQR6XSfMa7u+/Vr7nLI7Pwh0UN0GDNL8o0wG66Od0xtTdirN6JASeU3E7x8V
+OqH9jbzxrPA9F02sdw1HG9sQo7A+SJrdLTaX2IFlNMwB/7dBrc4lw3qGjBBw
+Pu7crBQFiCET/Bc1O2omEdGWI9wtJ2gIQQtuMjc2dz72YlbY8VRtP+Uu1OWM
+vjIyhvvQr7QcwFrOpog2JYbOjR68fp7os0BdJ8zg+90qNFnyydkX2pBC0Knf
+EpiHWuDqptAn8BYdTUQp+X/5oXvIdMLpO6LmVcSMxUdfW3z25X6OxAO7zLs1
+YDDbYd0+hTsc6mOOSWPkOGx//hiLFEuKqA0sWjgjCr5GkP0k4aZku0v3QCDQ
+Ka2WWrC67TriNy5gyxaADQCyIYknV3N3UunvJHahpT+uA3wIy3JwegAZ2Vm2
+81TG+kYANZrLXWTy83u5G7kb7AlQwtarup+DeeiRG/teoIiyK7Sr9xLyhkLq
+8qP9XNCZW1QgXMaXopYetm76M0BCMZ0rekxqXQscxNl/jVKhc8uPx4c9WOA2
+/m8asMeZNmEOKYeGb8pue/C7rxKG+hjUCCRCEO+UT6onp+B/9eepsU7q5sGw
+2qr/NMQtFLW3C1+szzmtHSfLXfPhDg4YoTe+yN3lMtFfIAVQ48VRNHGQVIIy
+CbFQ/A2PTPLdGmnwo6yvVX3HQowqT1/uBBrTC0tMQgl4fVBRW2nmKBLN+FIP
+oDVXKESHGLMpdbgKKom/WizKJOdS7xZiwpAbsePtrQ53XIJNv6qC/dJ5hDy9
+8i25LF8Mj2V0PmEptbzDwe7h6WuIHyP1GHU18OdB5jflvXVnLC2PjX7ku5it
+qOkqKGBVcGO5sfy8mvhHrGJmhHFhsx6gB4SKkyNxJtX93mkGYlJ2mXAmk9Rx
+XGuyGir9cUdwFvzhDGFMhPJtlfuhFPgnrDkVI5HKG0SbtGLKxZDBOePMPX0q
+e7Pynh5vEVFd16RYafMDIQ8y5cmBxCXcEBGPn5jdRQd0wrzclq5tnkomf/LQ
+FsjwJkbJL43Z7cGKhQfWZXvVNcbiLzTM3UzZtaeubJbkkmzWR/63OR7xDWe/
+wNZulT3VYGCoG05U/QwQ3bbeZ7sCZZ4DXFNinX7CriUASLHmAHpQhtBl1HWZ
+CbgDSZrtDQs9zPek19MHsdM5Yid+u0TLAWHQmjEUVXRZSPHtl613h7ZoPC+s
+ep2umR9kvS/BqvqsYaDnV159gJzYkLo86f3QfuYvQCBwD1s6BiiNnY88ee2w
+fid63WDdl1wdYERzi8cB2Aq2p2fZkrFwCp1GV0uMRdxE+U/4ZQA3ESmuEuT9
+s1H52voBiSsC/zzLP/DKo1h/3xCBjfnrsntnyUsHsBrrLr2eV+RBVeAZTyCr
+FVxufjq6yJ1ZIwhntZIJGK3V5rK81izSgs0ybk1zU7U6MuZTfoJF+be37V/M
+yyI1Xw+znBU8oikmc39rj/hUgIAkhFzXFmNe3cR+t0z6O5marKnp4BJDaxEw
+Hls28tuErbwkYJuuVmorMqGGUtmLd7Y9TxNxwJtIp7oR3K+uB4fWL4yWcFLF
+4bzprQdD15gU6iWK2AS+s4Ll3yuPLemb7u0Dv9zJmiUjoyg4b7ycp/9k5zGV
+3JLZCZH7coi7QE0S93nEa62V/KDNBi5pw/3striRIIxZlxmqeGnhjWMqA642
+dvwDAodrokujEsM+SHkB1SFfXw==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
