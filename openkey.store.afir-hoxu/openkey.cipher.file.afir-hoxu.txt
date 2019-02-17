@@ -1,0 +1,22 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := afir-hoxu
+Access Time := Sat Feb 16 03:36:46 2019 ( 19047.0336.462 )
+App Version := 0.01.0003
+Website Url := https://github.com/devops4me/safedb.net
+Session Ref := sqik-u1wu-erj5-vg3o-4hav
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+iFDMkoSZphU+ynH9iyI335Ejh4KSDlx2eINj/vCIVupuXMSzBBSqMprdou3m
+1uzuxMKLunfPlDlyjyjA8GqOVpMolC+y0K+sGa+TjLfNbPqh6bCsCH5FWyIX
+BmKHMQSn4k94Z+tc/5vtS3GP8adx+yzBG69MkR12zIrM5rmwfBZX4BFSPXpx
+teXEkU1O+k7N6eRyxMHg6xwEg6F9DVuY6bsWArVkxkheZfefxEnhlzpY9dD9
+OjTNGSA+H5fy3pIYZqYk8HzWmSK0PdKjqWyUGrXtPf+IXTd/DbNI+t43xFn6
+6wTy71qEZeR8SqTcKwj3IeCJjgcENa9DJE5/zARmNGIqTTHlkOEc+G6jK9cq
+aRFqikiJFyUYYy+szzekaw0lJNyAcgUAOaBMBS1sEd6e0LLrBUQHFcsSUKbg
+Siny5HZ3vPPDZEUWM8H/DaMh1j0Lbog/D2WEGdP+2VZUntplP3POVKPcdXtt
+voiX7O+QSqk=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
