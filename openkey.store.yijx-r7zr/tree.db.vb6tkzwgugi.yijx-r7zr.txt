@@ -1,0 +1,18 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Mon Feb 25 17:58:05 2019 ( 19056.1758.055 )
+App Version := 0.02.0004
+Website Url := https://github.com/devops4me/safedb.net
+Session Ref := azpw-a9xb-xrh6-5ev6-cpwc
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+Xx+msNb0k2DEl8sdizAb/54FFSiKoa+Tzxb5R/+JaBkUsYgnd3Ix/UdLTt+q
+bia38RCoN03bYrOzaaXzGj4yxZQ2kW2SbPZ4Z5iWRowTGP7/zhelwpk4bnYk
+ThsxpJ8ZZoHqv8O2PPDeuuR6hO2Y9adrCks45p1NAhvztnMQ9zI1poxg8YFc
+lCq9r4JWwi8F65HplzznidjCwDhCVLpQ0mgRhBAPjQh0LgTohWzRa5bhMbwt
+BUyJs+VWfVPfRKnt
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
