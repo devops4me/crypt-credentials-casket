@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Mon Feb 25 13:15:12 2019 ( 19056.1315.117 )
+App Version := 0.02.0003
+Website Url := https://github.com/devops4me/safedb.net
+Session Ref := enpd-tr4y-wbjx-gakd-g5vo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+TNiUE8HKzdyVlq0ntUkRsupfo0RMMTSgtj8RSeyt8tuPWGQ8gA+wCu9TEPAS
+QThnjE50EqVFXbGtrBKDSQgJkpfC4fD+wkY+SL3S3KCv34AG40818aOTBpvf
+r9+t2h/27mW2R1+lOJkgZ6VwCTXiGcxkkBjAEckrcnbZt/OwQtSHfpOorhyQ
+asXURFNkon8DSGEK/HUFrLkNgNzq3+GTrjcYnPjmOs4IlGEnudMt0GZ/jcj3
+a0pjQs9JFUuq0s1vZud7nmDPGxXMS8qGk7qNMXJoqaOMFLvDwtdynXSe23w0
+lEZUeNfXI75H4tFZLLAM7/9MKirdj9cDcghLKgmMTxe7tTBY/jwmRpRDQm1j
+1fv1pBYlTy9OkUJp855Kp9Fz13JadKbNkfoRNDIB6NKgcnw7fZGLXYF6EEbp
+wehVPd0/uz8t+CT54ngAYdWvafFYVonaR7W3YzmV7Rwip4VHkAyPv9+AsayF
+t+G3gvrT94c+8NcBhdJjWWXNvc+g5p3XK0EXo3FFwKXd6x0wV3thH0nmnWw1
+xwKt8cz0FwovnRCFD2Y3gbLLgnCAWoOsQEdt7edrmfFYNdA6ev339mH8SrJ0
+FPDwaCWn17npnuiJK+pBRd/dYXsc6M6qzJSDGO0Zorb4Zury6HuwozDpuZtV
+AxoGw6Aku+/U5u9W6FcsFTyLwpTJaN2qgQ2gJS2h5YJi+9RVAovOCK62BEm6
+Fv1XGoaXhgvIAUq0Ck8M50ErUStvP5l8/R8eNWlz8usqroZp4JfVV/Hty1fu
+BaJY/DA9QX/eWYvNreOmcOlddfuyaqJXMZsVtbPPvAEL0x/EgYrkYplq0OsO
+9cJ1NIhnm+tbNltg6iyr7iiK6GblX3sRdJTCdR8HJElqCHb+n3ufrLFJq5Ko
+sHo/XsfLchF3PYyH/ZHU1Fr6hxpc67sRLAqwFbXqzCxn837Reot2dYyq5SVs
+/c1DCzT59x2vc7ZgqX6EDUZL6IgLmotAWF+Bpu8Ubvhtv5ho5fteXigeLLHJ
+eFh8bMPIDxXGxSA2J0Rhawp/E6R7wKsSNMbuvGJvCxC8ENT3xp/hqQYAmldq
+mlgFyhuxdyPxaY1QWnj/r59HR8EtNmMgMb+03BFRxi8klzA+wnmmDF8Q+eEe
+tm27+H1BEV8k1h4uzKZjp7fhIgCERmjk+5bCH8+q5UVlY5VpGrgFy15orbly
+l+X9R2kUudzetyXnUL9R8AWiiN/ibolNqUKpbM1L1L7LVpmg8DCwRbSU+fQw
+m+ukKgVTnQpzbJYsl8JFQLTcjPTDdmS/53VMmqMTIlrb6jeo6icA+ODIQYyq
+akY=
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -1,0 +1,36 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+safedb.net ciphertext block
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+App Ref Num := yijx-r7zr
+Access Time := Mon Feb 25 13:15:52 2019 ( 19056.1315.523 )
+App Version := 0.02.0003
+Website Url := https://github.com/devops4me/safedb.net
+Session Ref := enpd-tr4y-wbjx-gakd-g5vo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0123456789abcdef0123456789abcdef0123456789abcdef0123456789ab
+x2fDiQt7oOn+cZiX1AtS4IFqgiWR6jLNduUbTeCgWL6N/C8MLEQkQm7B7HX1
++ym6C+kw0V5TG7pZYZ8NEYWJ+JYYztTtbBJVqqzVclzPLfyRZ6GH12i0h4ON
+YMvsiGSHQKKzJHHeH57IGuBCnhOGkv6WuMxRbS3JRU9GMenGTCXKzeMSXL/A
+0O3MHQVSRcDBarodORICudTgmOBSUbfo88rO8BOkZZB6Ct+W400wMCSXsANb
+bWt7EJHOY/mHPQT6++huvH196C6mlyZwxOgee35u3P93IyTuuleXjtaO3Sww
+h70MaT+Juoqs6BXJIvldRNPxkDayKA71H1bkwpFLS06g5SfVGNr/Dr0uF7eO
+s7sENiqgCS+M83zaXYQ23VSsXZ8EWJIZmZPTZdn35joi7xvjM5u3tMJkNSNF
+Y6XvW671R3iMLDmh7Wkx8UwE6kuxSYx6klt9dR2+JDiLcW9+1AjNBXHA8GQq
+iC7EUGIKUqvWgn9wWOMv53AzMCqKqbYIvIfKx8D6w/1+2KH6b49sL+T5sox9
+i0fB3YOqbSJ/l2cV58IZkUFAjLM/RB7nVkiNOLytPd7M88U8dAlC+DV4lXUf
+AiZCvtg/diUU0qbqhC2wO/kvSi9Ml0lhYLaiJ/v0fSBgs8WT/nFgtk5ASefZ
+NrG2tkP6q3LynYUK1yFo9NBIs5PGtYJFt5vkQNTa6bzazLNo/pL8xo7+k4IC
+T6k9G8jQerp+yQLCdyufAJdatX7jFtgg0gQ2gqKUMGBZmY5N+g/xE4k4tWiL
+j1IEEzlEiuM7AQ4Aphp9z9M+246Mjn2j6VJhe14GISUsygVvx8YpgNu614Qe
+0MHejcc4pV2MpdrzXCf+vvOMUS38axaEWkiynr18YY6pJG+cGuegfJewW3Fd
+6ex/E/zTWMrYZN5lBdv5G6Lnb3MWpYjdE9l4ZnMz/NRmvaEcjF5036ROo22C
+ZbhOYbafD68QrA9G82XtdBk+v0YPQxSMZim0yueaMk8SqspEQo9n/q56sRAn
+8jmSY5WC//9pUJppHuewXBdvqGT5ngYOTpQiZDY6+vLxaUff9XEhfMjuDdwR
+emy9ivZICrAhOoCxtCS26zKBlA+CVIZ5/+BOgLRfwh7zvW53kLCdAD8/ow+Z
+qm4ZlLN/ICA0ZdzzP7ehdUU5esCWTfJ2BSEjxdypuI8ypVUC5U0FhjHagyTQ
+JcQzQe8njDa2Q7LcdnzyatgHzAvgrOUgRTg81co9gS1Cb2nF2idXeNLj70OJ
+Imqs1XnTcnfVGikaXybHB2oGlIsOI+azh+NwlKenysnpQyWUkKrj+91fiX2M
+gogvymok83Koz4qZEFAyqTiZCCTxW3Bu3eLn1qwogK5SPg==
+ba9876543210fedcba9876543210fedcba9876543210fedcba9876543210
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
